@@ -10,6 +10,7 @@ namespace l3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("введите а и б ");
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
 
